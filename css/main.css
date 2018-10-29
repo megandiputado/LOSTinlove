@@ -1388,6 +1388,14 @@ nav#menu #menu-nav li a:hover {
    Social Area
 ================================================== */
 
+div#social-area.page-alternate {
+	text-align: center;
+	background: #FFFFFF;
+	padding: 40px 0;
+	position: relative;
+	z-index: 99;
+}
+
 #social-area {
     text-align: center;
 }
